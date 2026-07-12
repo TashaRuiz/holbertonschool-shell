@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la  6-firstdirectory
+ls -l  6-firstdirectory
