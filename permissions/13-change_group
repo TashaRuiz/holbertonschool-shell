@@ -1,2 +1,2 @@
 #!/bin/bash
-chown {-R} [user]{:group} [file|directory]
+chgrp school hello
